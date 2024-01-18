@@ -4,16 +4,21 @@ type: essay
 title: "Reflect on Javascript 1"
 # All dates must be YYYY-MM-DD format!
 date: 2023-01-17
-published: false
+published: true
 labels:
   - Javascript
   - Learning
 ---
 
+  Javascript is a really interesting language, coming from learning the languages HTML, C, C++, and Java.   C and C++ were both very difficult languages for me to comprehend during the class. However, I'd say JavaScript is a very straightforward and easy language to learn. I'm unsure if it is because its the 5th language I learned or if it used familar code to what I learned beforehand. However, I do know that I like Javascript as a language and I am excited to learn more about it.
+
+  I've never had any prior experience to Javascript before this class so, while looking through this Module, I learned a lot of new things from the Basic Courses and ES6. The things I learned from the courses were new concepts like 'var', 'let', 'const', and how the 'print' statement works differently, as well as how the 'int' and 'string' variables function differently compared to C. These readings and the exercises were very helpful to me while I am learning this language, since It felt like I was relearning everything that I had learned from previous languages.
+
+  In my opinion Javascript is a great language to start off with, because of how simple the 'Standard' stuff is to learn. It will take some time to get more indepth with the Language, however I believe it does have some disadvantages that other languages don't have. All in all, JavaScript is a good language, but it is beneficial to expand to different languages if needed for certain projects.
+
+  The way this class handles how it teaches its students is very unique. I've never had a class with this much practice and as well as this much 'self learning'. I really like how this class goes because I can sent my own time to do things and aren't too set back by time constraints. It allows me to learn at my own pace and I find it enjoyable with how much time I have I can do doing other work. I think for certain classes, this style of learning works out, but for classes like math, I think I would have a rougher time.
 
 
-Ever since I first grasped a paintbrush, I’ve always been eager to learn about design. Design is such a complex concept. For example, when looking at abstract art, its meaning can be completely different for different people. It motivates a person to think thoughtfully and has the potential to submerge them in a sea of imagination. It’s that special relationship between the viewer and the art that makes something as technical as software engineering interesting to me.
-
-I never used to think that design and technology went hand in hand.  Thus, learning about software engineering and the role of design has been incredibly interesting to me. Design, implementation, and management are just some of the many things I wish to learn more about. Good art, in a way, makes a person question it. They become joined in the idea of visualization – where captivation meets inspiration.
-
-I am now starting to take a Software Engineering class. I hope to learn a lot through the course, but I know it will be just the beginning of my journey. By the time I’m done with it, I hope I’ve learned enough to take the next step in my life as a developer. But until then, my fire will keep on burning.
+  Notes:
+    I asked ChatGPT for additional details to enhance my essay.
+    I also asked for any grammar mistskes
