@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: (https://clipart-library.com/new_gallery/17-175670_stick-figure-drawing-graphic-arts-computer-icons-pencil.png)
+image: https://clipart-library.com/new_gallery/17-175670_stick-figure-drawing-graphic-arts-computer-icons-pencil.png
 title: "Game Name"
 date: 2024-01-18
 published: true
