@@ -11,7 +11,7 @@ labels:
 ---
 
 <p>
-<img width="500px" class="image-fluid" src="(https://www.santuon.com/content/images/size/w2000/2022/06/rubber_duck.jpg)">
+<img width="500px" class="image-fluid" src="https://www.santuon.com/content/images/size/w2000/2022/06/rubber_duck.jpg">
 </p>
 
 <h1>
