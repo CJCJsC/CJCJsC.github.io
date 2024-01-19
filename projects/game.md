@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Icon-round-Question_mark.jpg/600px-Icon-round-Question_mark.jpg
+image: https://github.com/CJCJsC/CJCJsC.github.io/assets/156409258/58fc1c24-90fa-41d6-95cb-5d6a643c770d
 title: "Game Name"
 date: 2024-01-18
 published: true
