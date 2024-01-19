@@ -29,5 +29,8 @@ What skills do I want to learn?
 
 I want to develop skills that cater to both game and web development. Since in the futue I want to develop a game and a website that can be paired up with the game, I have a lot of plans however very little skill and knowledge about how to develop both of them. I wish to learn these skills and hopefully slowly gain experience further in the future, in which I follow this path of software engineering.
 
-
+<h2>
+ChatGPT
+</h2>
+I asked ChatGPT for additional details to enhance my essay and to check for any grammar mistakes
 
