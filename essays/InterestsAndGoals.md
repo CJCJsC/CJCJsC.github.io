@@ -15,12 +15,19 @@ labels:
 </p>
 
 <h1>
-test
+Why did I choose Software Engineering
 </h1>
-Javascript is a really interesting language, coming from learning the languages HTML, C, C++, and Java.   C and C++ were both very difficult languages for me to comprehend during the class. However, I'd say JavaScript is a very straightforward and easy language to learn. I'm unsure if it is because its the 5th language I learned or if it used familar code to what I learned beforehand. However, I do know that I like Javascript as a language and I am excited to learn more about it.
 
-I've never had any prior experience to Javascript before this class so, while looking through this Module, I learned a lot of new things from the Basic Courses and ES6. The things I learned from the courses were new concepts like 'var', 'let', 'const', and how the 'print' statement works differently, as well as how the 'int' and 'string' variables function differently compared to C. These readings and the exercises were very helpful to me while I am learning this language, since It felt like I was relearning everything that I had learned from previous languages.
+I choose software engineering because I was always interesting in anything related to technology. I was exposed to many of the following when I was growing up, Gaming Development, Web Development, Robots, AI, etc. When I was younger I always wondered how things would work and things like computers, apps, programs, websites. I thought to myself if I could make these things that I saw on the internet, but with my own style and flair. So, starting in Middle school I slowly started teaching myself anything software related, and when Highschool came around I dived more indepth with it. Sadly I haven't made any thing big for myself, but I hope I can eventually spend my free time making something that I can be proud of. 
 
-In my opinion Javascript is a great language to start off with, because of how simple the 'Standard' stuff is to learn. It will take some time to get more indepth with the Language, however I believe it does have some disadvantages that other languages don't have. All in all, JavaScript is a good language, but it is beneficial to expand to different languages if needed for certain projects.
+I also have personal reasons, I like playing games as a hobby, I like staying home, and I like making money.
 
-The way this class handles how it teaches its students is very unique. I've never had a class with this much practice and as well as this much 'self learning'. I really like how this class goes because I can sent my own time to do things and aren't too set back by time constraints. It allows me to learn at my own pace and I find it enjoyable with how much time I have I can do doing other work. I think for certain classes, this style of learning works out, but for classes like math, I think I would have a rougher time.
+
+<h1>
+What skills do I want to learn?
+</h1>
+
+I want to develop skills that cater to both game and web development. Since in the futue I want to develop a game and a website that can be paired up with the game, I have a lot of plans however very little skill and knowledge about how to develop both of them. I wish to learn these skills and hopefully slowly gain experience further in the future, in which I follow this path of software engineering.
+
+
+
