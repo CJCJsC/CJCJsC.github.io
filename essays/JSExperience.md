@@ -22,3 +22,7 @@ In my opinion Javascript is a great language to start off with, because of how s
 
 The way this class handles how it teaches its students is very unique. I've never had a class with this much practice and as well as this much 'self learning'. I really like how this class goes because I can sent my own time to do things and aren't too set back by time constraints. It allows me to learn at my own pace and I find it enjoyable with how much time I have I can do doing other work. I think for certain classes, this style of learning works out, but for classes like math, I think I would have a rougher time.
 
+<h2>
+ChatGPT
+</h2>
+I asked ChatGPT for additional details to enhance my essay and to check for any grammar mistakes
