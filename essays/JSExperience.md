@@ -10,7 +10,9 @@ labels:
   - Learning
 ---
 
-<img width="633px" class="rounded float-start pe-4" src="https://coderanch.com/t/456377/a/401/javascript-java.jpg">
+<p>
+<img width="300px" class="rounded float-start pe-4" src="https://coderanch.com/t/456377/a/401/javascript-java.jpg">
+</p>
 
 Javascript is a really interesting language, coming from learning the languages HTML, C, C++, and Java.   C and C++ were both very difficult languages for me to comprehend during the class. However, I'd say JavaScript is a very straightforward and easy language to learn. I'm unsure if it is because its the 5th language I learned or if it used familar code to what I learned beforehand. However, I do know that I like Javascript as a language and I am excited to learn more about it.
 
