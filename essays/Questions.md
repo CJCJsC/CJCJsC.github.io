@@ -6,8 +6,8 @@ title: "To ask or not to ask? That is the Question."
 date: 2024-01-25
 published: true
 labels:
-  -Questions
-  -Growth
+  Questions
+  Growth
 ---
 
 <p>
