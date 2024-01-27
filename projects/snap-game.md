@@ -18,7 +18,9 @@ If you don't know what Snap is, it is similar to scratch in where the code isn't
 This game is about playing as a person that is walking through the park avoiding to catch the disease 'Covid'.
 
 There are two mini games within this program, you can switch freely between the two games by pressing 1 or 2 on your keyboard.
+
 Game 1: you use the the left and right arrow keys to avoid 'Covid' to gain points, if you get hit it's game over.
+
 Game 2: you collect toilet paper rolls to gain points, you must avoid the other person ,that walks through walls, if not it's a game over.
 
 [Isolation Experience](https://snap.berkeley.edu/snap/snap.html#present:Username=cj%20caraang&ProjectName=Final%20Project%2C%20Isolation%20Experience)
