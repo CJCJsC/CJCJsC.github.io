@@ -24,8 +24,6 @@ Game 2: you collect toilet paper rolls to gain points, you must avoid the other 
 [Isolation Experience](https://snap.berkeley.edu/snap/snap.html#present:Username=cj%20caraang&ProjectName=Final%20Project%2C%20Isolation%20Experience)
 
 <p>
-<img width="425px" class="image-fluid" src="](https://media.discordapp.net/attachments/881242015973638144/1200670279525994516/image.png?ex=65c70656&is=65b49156&hm=2d37fa5c5ffb725d402bfca0cf7bd84359f39a57e0844065382ed13377991b8b&=&format=webp&quality=lossless)">
-  
   <img width="425px" class="image-fluid" src="https://media.discordapp.net/attachments/881242015973638144/1200669765149134899/Snap-Code.PNG?ex=65c705db&is=65b490db&hm=57815718c2058586b9e40622696984c6ecaf8f342ddc61fc2ebbfd0024d577c5&=&format=webp&quality=lossless&width=810&height=730">
 </p>
 
