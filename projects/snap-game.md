@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/game/Question-mark.jpg
+image: img/snap-game/Snap.jpg
 title: "Game - Avoid Covid"
 date: 2024-01-26
 published: false
