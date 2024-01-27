@@ -12,7 +12,7 @@ summary: "A website that holds the coding I learned in my coding class back in h
 ---
 
 <p>
-<img width="450px" class="image-fluid" src="(https://henryegloff.com/media/How-to-Code-a-Basic-Webpage-Using-HTML-Tutorial-2.jpg)">
+<img width="450px" class="image-fluid" src="https://henryegloff.com/media/How-to-Code-a-Basic-Webpage-Using-HTML-Tutorial-2.jpg">
 </p>
 
 [Highschool Website](https://sites.google.com/farringtonhighschool.org/cjcaraang-spring2021-ics/home?authuser=3)
