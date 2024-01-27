@@ -1,4 +1,4 @@
-![image](https://github.com/CJCJsC/CJCJsC.github.io/assets/156409258/5235345d-c322-456e-bf47-0756006c9cec)---
+---
 layout: project
 type: project
 image: img/highschool-coding/HSWebsite.PNG
