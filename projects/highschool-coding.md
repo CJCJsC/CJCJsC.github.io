@@ -11,6 +11,10 @@ labels:
 summary: "A website that holds the coding I learned in my coding class back in highschool"
 ---
 
+<p>
+<img width="400px" class="image-fluid" src="![image](https://github.com/CJCJsC/CJCJsC.github.io/assets/156409258/e398f7be-85a8-43fe-931b-51e9e5d24d9f)">
+</p>
+
 [Highschool Website](https://sites.google.com/farringtonhighschool.org/cjcaraang-spring2021-ics/home?authuser=3)
 
 This website was made by me during my highschool years, this project was made overtime with coding assignments being slowly added through out the class. This class was my first coding class outside of teaching myself coding through videos and google.
