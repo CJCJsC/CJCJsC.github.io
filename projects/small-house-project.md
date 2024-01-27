@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/game/Question-mark.jpg
+image: img/small-house-project/House.jpg
 title: "Small House Project"
 date: 2024-01-26
 published: true
