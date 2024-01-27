@@ -11,6 +11,10 @@ labels:
 summary: "A website that holds the coding I learned in my coding class back in highschool"
 ---
 
+<h1>
+  Highschool Coding Growth
+</h1>
+
 <p>
 <img width="325px" class="image-fluid" src="https://henryegloff.com/media/How-to-Code-a-Basic-Webpage-Using-HTML-Tutorial-2.jpg">
 </p>
