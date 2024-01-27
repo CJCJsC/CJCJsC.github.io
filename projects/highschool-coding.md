@@ -12,9 +12,7 @@ summary: "A website that holds the coding I learned in my coding class back in h
 ---
 
 <p>
-![image](https://github.com/CJCJsC/CJCJsC.github.io/assets/156409258/9ac65d2b-23d5-41b5-a6ab-68756ac61aa8)
 
-">
 </p>
 
 [Highschool Website](https://sites.google.com/farringtonhighschool.org/cjcaraang-spring2021-ics/home?authuser=3)
