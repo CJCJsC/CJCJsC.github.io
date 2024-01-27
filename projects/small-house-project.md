@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/game/Question-mark.jpg
-title: "Game Name"
+title: "Small House Project"
 date: 2024-01-26
 published: false
 labels:
