@@ -12,7 +12,7 @@ summary: "A game about Covid, and my experiences I had while making it."
 ---
 
 <p>
-<img width="325px" class="image-fluid" src="https://henryegloff.com/media/How-to-Code-a-Basic-Webpage-Using-HTML-Tutorial-2.jpg">
+<img width="325px" class="image-fluid" src="https://media.discordapp.net/attachments/881242015973638144/1200669765149134899/Snap-Code.PNG?ex=65c705db&is=65b490db&hm=57815718c2058586b9e40622696984c6ecaf8f342ddc61fc2ebbfd0024d577c5&=&format=webp&quality=lossless&width=810&height=730">
 </p>
 
 If you don't know what Snap is, it is similar to scratch in where the code isn't 'typed' but used in building blocks, and can uniformly connect to other blocks to replicate code.
