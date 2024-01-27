@@ -15,7 +15,7 @@ summary: "A group project that was made in highschool, and the experiences I had
   Small House Project
 </h1>
 
-This project was made with the me and two other students taking the class called Design Tech. (Project was made between the years 2020-2021)
+This project was made with the me and two other students taking the class called Design Tech.
 
 This project was made for a contest called '[Tiny House Design Challenge](https://docs.google.com/document/d/1mKz_WZUaSj4p2j4a9ONK0spFB6TJvteG/edit?usp=sharing&ouid=101069725802984305522&rtpof=true&sd=true)'. It was a contest to make a house with the floor plan size of 500 square feet, and to have the materials for the house be under 100,000 dollars in cost.
 
@@ -26,6 +26,6 @@ We had to make the blueprint floor plan, calculate the theortical cost of all th
    <img width="400px" class="image-fluid" src="https://media.discordapp.net/attachments/520290098990809088/1200631967666950295/20210527_130004.jpg?ex=65c6e2a7&is=65b46da7&hm=ddf8cc2c14b5b81342b259aaac82e01cd7ab9e29478d2d692320ed6d58877139&=&format=webp&width=810&height=608">
 </p>
 
-This project was really fun to work on and it was very fun using AutoCAD to make the floor plan as well as building up each wall and roof for the house. This project also taught me many things like the other projects, this taught me the coordination you need with 
+This project was really fun to work on and it was very fun using AutoCAD to make the floor plan as well as building up each wall and roof for the house. This project also taught me many things like the other projects, this taught me the coordination you need with your team mates. We split up the work between the three of us, one person worked on calculating the cost of the house, worked on creating a social media account, and wh
 
 
