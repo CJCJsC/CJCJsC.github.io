@@ -11,7 +11,9 @@ labels:
 summary: "A game about Covid, and my experiences I had while making it."
 ---
 
-
+<h1>
+  Game Final Project
+</h1>
 
 If you don't know what Snap is, it is similar to scratch in where the code isn't 'typed' but used in building blocks, and can uniformly connect to other blocks to replicate code.
 
