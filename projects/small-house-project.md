@@ -4,9 +4,9 @@ type: project
 image: img/game/Question-mark.jpg
 title: "Small House Project"
 date: 2024-01-26
-published: false
+published: true
 labels:
-  - AutoCad
+  - Auto Cad
   - Hands On
 summary: "A group project that was made in highschool, and the experiences I had while making it."
 ---
