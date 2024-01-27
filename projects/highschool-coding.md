@@ -1,14 +1,20 @@
 ---
 layout: project
 type: project
-image: img/game/Question-mark.jpg
+image: img/game/HSWebsite.jpg
 title: "Highschool Beginnings"
 date: 2024-01-26
 published: false
 labels:
-  - GitHub
+  - Highschool
+  - Html
 summary: "A website that holds the coding I learned in my coding class back in highschool"
 ---
 
-In the near future I want to make a game that I and anyone who plays it can thoroughly enjoy, I don't have any idea on what kinda of game to make but I want to make it as fun, enjoyable, and interactive as I could poissible can.
+This website was made by me during my highschool years, this project was made overtime with coding assignments being slowly added through out the class. This class was my first coding class outside of teaching myself coding through videos and google.
+
+This class was mainly about learning HTML, however we gradually learned Python, CSS, and Javascript.
+
+
+
 
