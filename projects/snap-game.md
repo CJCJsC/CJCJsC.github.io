@@ -17,7 +17,7 @@ summary: "A game about Covid, and my experiences I had while making it."
 
 If you don't know what Snap is, it is similar to scratch in where the code isn't 'typed' but used in building blocks, and can uniformly connect to other blocks to replicate code.
 
-This game is about playing as a person that is walking through the park avoiding to catch the disease 'Covid'.
+This game is about playing as a person that is walking through the park avoiding to catch the virus 'Covid'.
 
 There are two mini games within this program, you can switch freely between the two games by pressing 1 or 2 on your keyboard.
 
