@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "The "
+title: "Using IDE's makes things IDEasy!"
 # All dates must be YYYY-MM-DD format!
 date: 2024-02-07
 published: false
@@ -19,6 +19,9 @@ labels:
 ...
 </h1>
 
+<h1>
+...
+</h1>
 
 
 <h2>
