@@ -15,12 +15,11 @@ labels:
 <img width="450px" class="image-fluid" src="https://coderanch.com/t/456377/a/401/javascript-java.jpg">
 </p>
 
-
 <h1>
 My Thoughts on IntelliJ
 </h1>
   <p>
-    Before using IntelliJ for Javascript, I never dabbled with IDE's before. While using IntelliJ for the first time has shown me the 'easy way out' of writing and formatting code. However, learning to re-format and to set the preferences in the settings was confusing for me since,
+    Before using IntelliJ for Javascript, I never dabbled with IDE's before. While using IntelliJ for the first time has shown me the 'easy way out' of writing and formatting code. However, learning to re-format and to set the preferences in the settings was confusing for me since the window formatting was something I was not accustomed to.
   </p>
 
 <h1>
