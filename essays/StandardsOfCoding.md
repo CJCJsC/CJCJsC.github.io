@@ -17,14 +17,14 @@ labels:
 
 
 <h1>
-My Experience Using IDEs
+My Thoughts on IntelliJ
 </h1>
   <p>
     
   </p>
 
 <h1>
-My Thoughts on Coding Standards
+The Importance of Coding Standards
 </h1>
   <p>
     test
