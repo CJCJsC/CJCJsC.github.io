@@ -20,14 +20,14 @@ labels:
 My Thoughts on IntelliJ
 </h1>
   <p>
-    test
+    Before using IntelliJ for Javascript, I never dabbled with IDE's before. While using IntelliJ for the first time has shown me the 'easy way out' of writing and formatting code. However, learning to re-format and to set the preferences in the settings was confusing for me since,
   </p>
 
 <h1>
 The Importance of Coding Standards
 </h1>
   <p>
-    test
+    I learned the importance of having a neat coding style because of the previous coding classes I've taken.
   </p>
 
 <h2>
