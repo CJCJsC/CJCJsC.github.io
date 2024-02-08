@@ -7,6 +7,7 @@ date: 2024-02-07
 published: false
 labels:
   - Coding Standards
+  - IDEs
   - Learning
 ---
 
@@ -16,14 +17,14 @@ labels:
 
 
 <h1>
-
+My Experience Using IDEs
 </h1>
   <p>
     test
   </p>
 
 <h1>
-...
+My Thoughts on Coding Standards
 </h1>
   <p>
     test
