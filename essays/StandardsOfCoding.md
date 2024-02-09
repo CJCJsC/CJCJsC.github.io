@@ -12,7 +12,7 @@ labels:
 ---
 
 <p>
-<img width="450px" class="image-fluid" src="https://coderanch.com/t/456377/a/401/javascript-java.jpg">
+<img width="450px" class="image-fluid" src="https://hippoom.github.io/images/checkstyle-e2e/style.jpg">
 </p>
 
 <h1>
