@@ -12,7 +12,7 @@ labels:
 ---
 
 <p>
-<img width="450px" class="image-fluid" src="https://hippoom.github.io/images/checkstyle-e2e/style.jpg">
+<img width="400px" class="image-fluid" src="https://hippoom.github.io/images/checkstyle-e2e/style.jpg">
 </p>
 
 <h1>
