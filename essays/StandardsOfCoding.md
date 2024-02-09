@@ -19,7 +19,7 @@ labels:
 My Thoughts on IntelliJ
 </h1>
   <p>
-    Before using IntelliJ for Javascript, I never dabbled with IDE's before. While using IntelliJ for the first time has shown me the 'easy way out' of writing and formatting code. However, learning to re-format and to set the preferences in the settings was confusing for me since the window formatting was something I was not accustomed to. However, after setting all my prefer'd preferences, I was astonished by how easy it was to write code. I could write code easily and have it corrected by using the coding style preferences.
+  Prior to my venture into IntelliJ for Javascript, I hadn't really explored IDEs. Getting acquainted with IntelliJ introduced me to the seemingly effortless approach to coding and formatting. However, figuring out how to adjust preferences and reformat code in the settings proved to be a bit bewildering, especially since the window layout was unfamiliar to me. Yet, once I sorted out my preferred settings, I was pleasantly surprised by how straightforward it became to write code. With the help of coding style preferences, I found myself able to write and refine code with greater ease and accuracy.
   </p>
 
 <h1>
