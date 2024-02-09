@@ -26,7 +26,7 @@ My Thoughts on IntelliJ
 The Importance of Coding Standards
 </h1>
   <p>
-    I learned the importance of having a neat coding style because of the previous coding classes I've taken. Before learning Javascript, I took a C and C++ course. My professor during this course emphasized that coding style and coding standards was importnat because in a workplace, it is critical that your co-workers would be able to read your code. Also, while writing 
+  I have come to appreciate the significance of maintaining a clean coding style, a realization nurtured by my prior experiences in coding classes. Prior to taking a JavaScript course, I took a class in C and C++. My instructors consistently reminded us of  the importance of adhering to coding style guidelines and standards, emphasizing their pivotal role in facilitating collaboration within a professional environment. It is imperative not only to comprehend the code being written but also to ensure its clarity and intended functionality. Consequently, when revisiting code at a later juncture, the adherence to established coding standards proves instrumental in promoting readability and comprehension, thereby enhancing the overall quality of the codebase.
   </p>
 
 <h2>
