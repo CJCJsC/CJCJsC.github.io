@@ -52,7 +52,7 @@ Some practical applications for using AI are, using them while working, ...
 </p>
 
 <h2>
-V. Challenges and Opportunities:
+V. Challenges and Opportunities: ***
 </h2>
 
 <p>
@@ -62,11 +62,11 @@ However some opportunities that arrive when using AI are, saving time on work, .
 </p>
 
 <h2>
-VI. Comparative Analysis:
+VI. Comparative Analysis: ***
 </h2>
 
 <p>
-
+Some differences between work made by a human being and work made by AI are, ...
 </p>
 
 <h2>
@@ -74,7 +74,7 @@ VII. Future Consideration:
 </h2>
 
 <p>
-
+Some things to keep in mind for the future while using AI are,
 </p>
 
 <h2>
@@ -82,7 +82,7 @@ VIII. Conclusion:
 </h2>
 
 <p>
-
+In Conclusion,
 </p>
 
 
