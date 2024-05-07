@@ -44,11 +44,11 @@ I feel like depending on how you use AI, it could either dampen your learning an
 </p>
 
 <h2>
-IV. Practical Applications:
+IV. Practical Applications: ***
 </h2>
 
 <p>
-
+Some practical applications for using AI are, using them while working, ...
 </p>
 
 <h2>
@@ -56,7 +56,9 @@ V. Challenges and Opportunities:
 </h2>
 
 <p>
+Some challenges that arrive when using AI are, when using any work or code that is given by AI will eventually give you errors later on.
 
+However some opportunities that arrive when using AI are, saving time on work, ...
 </p>
 
 <h2>
