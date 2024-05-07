@@ -4,7 +4,7 @@ type: essay
 title: "Artificial Intelligence: Is it A Useful Tool?"
 # All dates must be YYYY-MM-DD format!
 date: 2024-05-04
-published: false
+published: true
 labels:
   - Artificial Intelligence
   - AI
