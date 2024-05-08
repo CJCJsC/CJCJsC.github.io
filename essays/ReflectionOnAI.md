@@ -28,8 +28,66 @@ My Experience With Using Artifical Intelligence
 <h2>II. Personal Experience with AI:</h2>
 
 <p>
-    In my Software Engineering class assignments, I extensively utilized AI to aid my work. For instance, I often sought assistance by asking questions such as, "Could you provide code that accomplishes this task?" This method, however, was reserved for relatively straightforward tasks, as AI-generated code may contain errors. Thus, I exercised caution and typically supplemented such examples with inquiries like, "Can you offer examples of code using .map in Java?" These examples served as valuable references for integrating AI-generated solutions into my projects. Additionally, I frequently consulted AI for debugging assistance. By presenting my code along with the error message, I could promptly receive guidance on rectifying issues, enabling me to refine my coding skills while utilizing AI as a learning aid. Beyond coding, I also leveraged AI for essay writing tasks in the course. However, I refrained from relying solely on AI to compose entire essays, as it would undermine the essence of personal expression. Instead, I utilized AI to identify and correct grammatical or spelling errors in my drafts, ensuring a polished final product. This approach proved beneficial, particularly when the writing software lacked robust grammar and spell-checking capabilities.
+  I have used AI in class this semester in the following areas:
 </p>
+<ul>
+  <li>1. Experience WODs e.g. E18</li>
+    <ul>
+      <li>For the Experience WODs, I only followed the videos after I did the code myself since, I thought it was the best way to learn the method.</li>
+    </ul>
+  <li>2. In-class Practice WODs</li>
+    <ul>
+      <li>For practice WODS I follow the same thought process similarly to Experience WODs, to not use AI.</li>
+    </ul>
+  <li>3. In-class WODs</li>
+    <ul>
+      <li>For In-class WODs, I used AI to assit me since I was confident enough in my own coding skill in which I could use AI to help me by setting up the code template.</li>
+     </ul>
+  <li>4. Essays</li>
+    <ul>
+      <li>I only used ChatGPT to correct any grammar and spelling errors since the software doesn't have a built in auto-correct.</li>
+    </ul>
+  <li>5. Final project</li>
+    <ul>
+      <li>I tried using AI for this but it didn't seem to help and gave more errors than solving them.</li>
+    </ul>
+  <li>6. Learning a concept / tutorial</li>
+    <ul>
+      <li>I used AI by asking for examples on how to use methods like the java _.map method, so I would ask questions like "Can you give me an example on how to use the _.map method" and then apply it to my code.</li>
+    </ul>
+  <li>7. Answering a question in class or in Discord</li>
+    <ul>
+      <li>When answering a question I would just copy and paste the question into ChatGPT, but I would keep in mind that the answer wouldn't be 100% correct so I would then research it bymself to check if it was accurate enough.</li>
+    </ul>
+  <li>8. Asking or answering a smart-question</li>
+    <ul>
+     <li>For answers a smart-question, I wouldn't consult AI for this since, in my experience AI has a hard time answering questions that have depth or it would have a hard explaining it after answering.</li>
+    </ul>
+  <li>9. Coding example e.g. “give an example of using Underscore .pluck”</li>
+    <ul>
+      <li>Asking AI for coding examples like "Give an example of using _.map", "Give an example on how to set up CSS", "Give a template with these method names...".</li>
+    </ul>
+  <li>10. Explaining code</li>
+    <ul>
+      <li>I would paste in code I find from the experience WODs and ask the AI for further explaination after looking at the video.</li>
+    </ul>
+  <li>11. Writing code</li>
+   <ul>
+      <li>For asking AI for code, I only ask it for simple tasks, since the more difficult the task, the more of a chance of it having errors. So, usually I don't ask AI for this.</li>
+    </ul>
+  <li>12. Documenting code</li>
+   <ul>
+      <li>I usualy don't use AI for Documenting code, however I do ask about potential test cases that I might need for the function.</li>
+    </ul>
+  <li>13. Quality assurance</li>
+   <ul>
+      <li>I think the quality differs based on which AI you are using however, most AI is good enough for some things just not all.</li>
+    </ul>
+  <li>14. Other uses in ICS 314 not listed above</li>
+    <ul>
+      <li>Because I started using AI in ICS 314, I've been using it to point out grammar mistakes on my essays for different classes.</li>
+    </ul>
+</ul>
 
 <h2>III. Impact on Learning and Understanding:</h2>
 
