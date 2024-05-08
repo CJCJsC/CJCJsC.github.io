@@ -48,7 +48,7 @@ IV. Practical Applications: ***
 </h2>
 
 <p>
-To my knowledge, I know several examples of AI being used in a multitude of projects, for example projects like Games and Machine Learning. There are a lot of videos online showcasing a content creator creating an Machine Learning Algorithm, similar to AI, in which they would be tasked to complete a certain objective. For example, 
+To my knowledge, I know several examples of AI being used in a multitude of projects, for example projects like Games and Machine Learning. There are a lot of videos online showcasing a content creator creating an Machine Learning Algorithm, similar to AI, in which they would be tasked to complete a certain objective. For example, a [youtuber](https://www.youtube.com/watch?v=DmQ4Dqxs0HI) re-creating a game in code, and creating an AI to beat the game, and seeing how well they would do while adjusting certain parameters and achivements that the AI has to follow and complete.
 </p>
 
 <h2>
