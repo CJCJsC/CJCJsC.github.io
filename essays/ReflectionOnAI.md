@@ -19,12 +19,10 @@ My Experience With Using Artifical Intelligence
 <img width="450px" class="image-fluid" src="https://itchronicles.com/wp-content/uploads/2020/11/where-is-ai-used-1024x683.jpg">
 </p>
 
-<h2>
-I. Introduction: 
-</h2>
+<h2>I. Introduction:</h2>
 
 <p>
-  In my Software Engineering course we were encouraged to use AI in order to help us accomplish out work assignments. For some context, AI stands for Artifical Intelligence, a tool that people uses to assist them in completing a project or assignment. A tool that lets people ask a question, and allows that person to get an answer, an answer for any type of question. Some popular websites that has these types of AI are website like, ChatGPT, MicrosoftCoPilot, etc. ... ...
+  In my Software Engineering course, AI emerged as a valuable resource to aid us in completing our work assignments. AI, short for Artificial Intelligence, serves as a versatile tool enabling individuals to seek assistance in various tasks. It allows users to pose questions and receive answers across a wide range of topics. Notable AI platforms like ChatGPT and MicrosoftCoPilot exemplify this capability. Throughout the course, we explored the multifaceted applications of AI, leveraging its potential to streamline tasks, provide insights, and enhance problem-solving. This introduction sets the stage for delving deeper into the challenges, opportunities, and considerations surrounding the integration of AI in our coursework and beyond.
 <p>
 
 <h2>II. Personal Experience with AI:</h2>
@@ -72,8 +70,7 @@ I. Introduction:
 <h2>VIII. Conclusion:</h2>
 
 <p>
-  Is AI a useful tool? Yes, undoubtedly, AI proves beneficial for specific tasks within work environments. However, relying solely on AI for entire projects offers limited benefits. AI should augment human efforts, not replace them entirely. Reflecting on my own experience with AI, I initially found it helpful in this course. Yet, I realized it wasn't facilitating true learning; it was merely aiding in completing tasks.</p>
-<p>Over time, I adapted my approach to using ChatGPT's AI to my advantage, focusing on learning rather than simply copying and pasting code. In the realm of coding, AI should be utilized primarily for creating templates, error correction, providing additional examples, and serving as a last resort when encountering unfamiliar concepts.
+  Is AI a useful tool? Yes, undoubtedly, AI proves beneficial for specific tasks within work environments. However, relying solely on AI for entire projects offers limited benefits. AI should augment human efforts, not replace them entirely. Reflecting on my own experience with AI, I initially found it helpful in this course. Yet, I realized it wasn't facilitating true learning; it was merely aiding in completing tasks. Over time, I adapted my approach to using ChatGPT's AI to my advantage, focusing on learning rather than simply copying and pasting code. In the realm of coding, AI should be utilized primarily for creating templates, error correction, providing additional examples, and serving as a last resort when encountering unfamiliar concepts.
 </p>
 
 <h2>
