@@ -12,7 +12,7 @@ labels:
 ---
 
 <h1>
-My Experience With Artifical Intelligence
+My Experience With Using Artifical Intelligence
 </h1>
 
 <p>
@@ -20,71 +20,61 @@ My Experience With Artifical Intelligence
 </p>
 
 <h2>
-I. Introduction: ***
+I. Introduction: 
 </h2>
 
 <p>
-In my Software Engineering course we were encouraged to use AI in order to help us accomplish out work assignments. For some context, AI stands for Artifical Intelligence, a tool that people uses to assist them in completing a project or assignment. A tool that lets people ask a question, and allows that person to get an answer, an answer for any type of question. Some popular websites that has these types of AI are website like, ChatGPT, MicrosoftCoPilot, etc. ... ...
+  In my Software Engineering course we were encouraged to use AI in order to help us accomplish out work assignments. For some context, AI stands for Artifical Intelligence, a tool that people uses to assist them in completing a project or assignment. A tool that lets people ask a question, and allows that person to get an answer, an answer for any type of question. Some popular websites that has these types of AI are website like, ChatGPT, MicrosoftCoPilot, etc. ... ...
 <p>
 
-<h2>
-II. Personal Experience with AI:
-</h2>
+<h2>II. Personal Experience with AI:</h2>
 
 <p>
-For the assignments given in my Software Engineering class, I used a lot of AI to assit me in my work. Some examples of me using AI was asking questions like "Give me code that accomplishes this," and would be followed by the Tasks / Problems that needs to be solved, however this example I only use for certain code that can be easily accomplished normally because the given code from AI could have errors, this is why I usually ask questions like the following. I would ask the AI, "Give me examples of code using .map in Java" and I would apply the example that the AI gives me into my code. Other types of things I would ask the AI are questions that pretain to coding errors, for example I would give the AI my code, the error line that was given, and ask how to fix it, and then apply it to my code afterwards. I like asking the AI questions like these because I feel like I am still learning, I don't wanna keep asking the AI for answers, I want to still be able to learn while asking questions. Besides using AI for coding, I also got help from AI for essays that I would need to write for the course. However, using AI to completly write out an essay for you would be very ill advised because why would you write an essay when it has none of your 'essence' in it? When I ask for the AI for help, I only ask questions like, "Are there any grammatical errors within this essay?" or "Are there any spelling errors within this essay?", followed by the essay that I wrote. I like using AI for this because, sometimes the program that I use to write essays don't have a built in grammar or spell checking system.
+    In my Software Engineering class assignments, I extensively utilized AI to aid my work. For instance, I often sought assistance by asking questions such as, "Could you provide code that accomplishes this task?" This method, however, was reserved for relatively straightforward tasks, as AI-generated code may contain errors. Thus, I exercised caution and typically supplemented such examples with inquiries like, "Can you offer examples of code using .map in Java?" These examples served as valuable references for integrating AI-generated solutions into my projects. Additionally, I frequently consulted AI for debugging assistance. By presenting my code along with the error message, I could promptly receive guidance on rectifying issues, enabling me to refine my coding skills while utilizing AI as a learning aid. Beyond coding, I also leveraged AI for essay writing tasks in the course. However, I refrained from relying solely on AI to compose entire essays, as it would undermine the essence of personal expression. Instead, I utilized AI to identify and correct grammatical or spelling errors in my drafts, ensuring a polished final product. This approach proved beneficial, particularly when the writing software lacked robust grammar and spell-checking capabilities.
 </p>
 
-<h2>
-III. Impact on Learning and Understanding:
-</h2>
+<h2>III. Impact on Learning and Understanding:</h2>
 
 <p>
-In ways that using AI could improve or weaken things like the your comprehension, development of skills in the respective subject , and problem-solving abilities. Some ways that AI could reduce your problem-solving skills are by just using AI to cheat. Asking AI to completely solve a problem by itself is similar to the act of cheating. Cheating doesn't allow the user to learn by themselves and to improve their own skillset. Similarly to using AI to solve a problem, it doesn't allow the user to learn by themselves, since the Ai is doing all the work, and the user doesn't improve upon himself and not enhance his problem-skills. Some ways that AI could improve your skill development, are using AI for things like asking the AI for corrections for the errors, and asking them how to use a certain coding method. Using AI for this purpose, gives the user more examples to learn from and they could apply it to their work. For the error example, asking the AI to correct their code, can make the user learn from their mistakes and they won't make it again. Other ways that AI could enhance your learning is by asking them for different ways to accomplish your project, not exactly asking them to complete it but to give examples of more diverse ways of accomplishing the user's project. This way the user can learn more methods and potentionally learn more.
+    Using AI can either enhance or diminish comprehension, skill development in respective subjects, and problem-solving abilities. One way AI could weaken problem-solving skills is by relying on it as a shortcut, akin to cheating. Depending solely on AI to solve problems deprives users of the chance to learn independently and improve their own skill sets. Similarly, when AI solves problems entirely, users miss out on the opportunity to develop their problem-solving skills as the AI performs all the work, hindering personal growth. Conversely, AI can aid skill development by providing error corrections and guidance on coding methods. Seeking AI assistance for error corrections and coding methods offers users additional examples to learn from and apply to their work. For example, requesting AI assistance in error correction allows users to learn from their mistakes, reducing the likelihood of repeating them. Furthermore, AI can enhance learning by suggesting alternative approaches to problem-solving without solving the problem outright. Instead of asking AI to complete a task, users can request examples of diverse methods for accomplishing their projects. This approach encourages exploration and deepens understanding of various problem-solving strategies, enabling users to expand their skill sets.
 </p>
 
-<h2>
-IV. Practical Applications:
-</h2>
+<h2>IV. Practical Applications:</h2>
 
 <p>
   
-To my knowledge, I know several examples of AI being used in a multitude of projects, for example projects like Games and Machine Learning. There are a lot of videos online showcasing a content creator creating an MLA (Machine Learning Algorithm), similar to AI, in which they would be tasked to complete a certain objective. For example, a [youtuber](https://www.youtube.com/watch?v=DmQ4Dqxs0HI) re-creating a game in code, and creating an AI to beat the game, and seeing how well they would do while adjusting certain parameters and achivements that the AI has to follow and complete. Also, there is another [youtuber](https://www.youtube.com/watch?v=pJPdW8WWAso) that creates a MLA that makes a 3d charatcer model and tasks them to walk. I think these two projects are realy interesting and allows people to see the progress of AI and sees how well they need to evolve, inorder to accomplish a task. I think these examples show how effective a MLA is when needing to accomplish a simple and easy task. With enough time, a MLA can easily learn how to accomplish a task, given that the task has minimal requirments and that it is easy to implement. A real world example involving real work involves this [MLA scanner](https://www.newyorker.com/tech/annals-of-technology/the-pastry-ai-that-learned-to-fight-cancer) that was used for scanning bread to calculate the cost of the total purchase. This was soon re-purposed for identifying cancer cells, because of it's value of identifying, different shapes and sizes, and comparing them to each other.
+  I'm aware of several examples of AI being utilized in various projects, including games and machine learning. Online videos often demonstrate content creators developing Machine Learning Algorithms (MLAs) to achieve specific objectives. For instance, a [YouTuber](https://www.youtube.com/watch?v=DmQ4Dqxs0HI) recreated a game in code and design an AI to play and succeed in the game while adjusting parameters and achievements for the AI. Another example involves a [YouTuber](https://www.youtube.com/watch?v=pJPdW8WWAso) creating an MLA that generates a 3D character model and instructs it to walk. These projects are intriguing as they illustrate the progression of AI and highlight the need for continuous evolution to accomplish tasks effectively. They demonstrate the effectiveness of MLAs in tackling simple tasks given sufficient time, minimal requirements, and ease of implementation. A real-world application of AI in practical work involves an MLA scanner that was initially developed for scanning bread to calculate purchase costs. However, it was later repurposed for identifying cancer cells due to its capability in recognizing different shapes and sizes and comparing them. You can find more about it in this [New Yorker article](https://www.newyorker.com/tech/annals-of-technology/the-pastry-ai-that-learned-to-fight-cancer).
 </p>
 
 
-<h2>
-V. Challenges and Opportunities: ***
-</h2>
+
+<h2>Challenges and Opportunities:</h2>
 
 <p>
-Some challenges that arrive when using AI are, using any work or code that is given by AI will eventually give you errors later on. Working on an assignment that is strictly only being coded by an AI is very risky and not healthy for the worker, the consumer, and the project as a whole. Using code that is given and written by AI is a very big mistake in which you could have unforseen errors hidden within the code, some examples include, errors with can contradict or interfers with other files, if the code needs to be changed the user who copied the code will have trouble updating the code because he wasn't the one who wrote the code, so they will have a hard time understanding what parts of the code they will need to change. However some opportunities that arrive when using AI are, saving time on work, using MLA to accomplish a task, and asking the AI on fixes on errors in the code. I believe these three ways are good opportunities to allow AI to be used while working on a project. Asking an AI to format a template for your project helps time without formatting it yourself. Having the AI do this easily saves enough time for the user to think of aspects for the project, like what to use for methods and functions. Using MLA to accomplish a task is a good example from the last section, having an AI to do this job for the user easily saves more time in the long run, and can be reused in a different area of used correctly. Another way that AI is used good for is to fix errors since sometimes bug fixing code can be hard when you don't recognize the error line.
+  Some challenges that arise when using AI include using any work or code provided by AI, which may eventually lead to errors. Relying solely on AI to complete an assignment is risky and detrimental to the worker, the consumer, and the project as a whole. Employing code generated by AI is a significant mistake, as it may contain unforeseen errors. Examples include errors that contradict or interfere with other files. If the code needs to be changed, users who have copied the code may struggle to update it since they did not write the code themselves. However, there are opportunities when using AI. These include saving time on work, leveraging MLAs to accomplish tasks, and seeking AI assistance in error correction. These avenues offer efficient ways to incorporate AI into projects. For instance, requesting AI to format a project template saves time that would otherwise be spent on manual formatting, allowing users to focus on other aspects of the project, such as selecting methods and functions. Similarly, employing MLAs to accomplish tasks, as mentioned in the previous section, saves time in the long run and can be repurposed for different areas if used correctly. Additionally, utilizing AI to fix errors is beneficial, especially when debugging code can be challenging without recognizing the error line.
 </p>
 
-<h2>
-VI. Comparative Analysis: ***
-</h2>
+
+<h2>VI. Comparative Analysis:</h2>
 
 <p>
-Some differences between work made by a human being and work made by AI are, ...
+  Comparing the teaching methods of a standard face-to-face teacher and an AI, the standard teacher is by far more advanced, especially in coding contexts. When consulting a professor or senior regarding coding, they provide a multitude of examples and various approaches to problem-solving. In contrast, AI typically offers a singular approach, deducing it as the best method for the task. While AI may provide efficient solutions, learning from a professor offers more diverse examples and guides learners through the coding process with different methods. Overall, engagement levels are higher with a professor, as questioning is more thoughtful. Knowledge retention is also higher with a professor, as mental notes tend to be more effective than merely copying and pasting code provided by AI without understanding its implications. Additionally, learning under a teacher allows for more hands-on practice, fostering skill development in coding.
 </p>
 
-<h2>
-VII. Future Consideration:
-</h2>
+
+<h2>VII. Future Considerations:</h2>
 
 <p>
-Some things to keep in mind for the future while using AI are,
+  When utilizing Artificial Intelligence, several factors merit consideration. Firstly, we must explore the various ways to integrate AI into our work and daily lives, leveraging its capabilities to streamline tasks and enhance efficiency. Additionally, we should explore how AI can aid in self-education and teaching others. For those contemplating future AI use, it's advisable not to rely solely on AI when learning something new. Instead, individuals should conduct their own research through articles, online courses, or instructional videos. AI should serve as a supplementary resource, particularly when learning coding methodologies. Furthermore, it's essential to recognize areas where AI requires improvement. AI systems may not always be up-to-date with the latest information, as their knowledge is limited by their creators. For instance, ChatGPT's knowledge is current only up to January 2022. Thus, if developments occur in coding or related fields after this period, AI may lack updated information.
 </p>
 
-<h2>
-VIII. Conclusion:
-</h2>
+
+<h2>VIII. Conclusion:</h2>
 
 <p>
-In Conclusion,
+  Is AI a useful tool? Yes, undoubtedly, AI proves beneficial for specific tasks within work environments. However, relying solely on AI for entire projects offers limited benefits. AI should augment human efforts, not replace them entirely. Reflecting on my own experience with AI, I initially found it helpful in this course. Yet, I realized it wasn't facilitating true learning; it was merely aiding in completing tasks.</p>
+<p>Over time, I adapted my approach to using ChatGPT's AI to my advantage, focusing on learning rather than simply copying and pasting code. In the realm of coding, AI should be utilized primarily for creating templates, error correction, providing additional examples, and serving as a last resort when encountering unfamiliar concepts.
 </p>
-
 
 <h2>
 ChatGPT
