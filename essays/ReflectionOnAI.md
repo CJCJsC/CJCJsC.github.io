@@ -48,7 +48,7 @@ IV. Practical Applications: ***
 </h2>
 
 <p>
-To my knowledge, I know several examples of AI being used in a multitude of projects, for example projects like Games and Machine Learning. There are a lot of videos online showcasing a content creator creating an Machine Learning Algorithm, similar to AI, in which they would be tasked to complete a certain objective. For example, a [youtuber](https://www.youtube.com/watch?v=DmQ4Dqxs0HI) re-creating a game in code, and creating an AI to beat the game, and seeing how well they would do while adjusting certain parameters and achivements that the AI has to follow and complete.
+To my knowledge, I know several examples of AI being used in a multitude of projects, for example projects like Games and Machine Learning. There are a lot of videos online showcasing a content creator creating an MLA (Machine Learning Algorithm), similar to AI, in which they would be tasked to complete a certain objective. For example, a [youtuber](https://www.youtube.com/watch?v=DmQ4Dqxs0HI) re-creating a game in code, and creating an AI to beat the game, and seeing how well they would do while adjusting certain parameters and achivements that the AI has to follow and complete. Also, there is another [youtuber] (https://www.youtube.com/watch?v=pJPdW8WWAso) that creates a MLA that makes a 3d charatcer model and tasks them to walk. I think these two projects are realy interesting and allows people to see the progress of AI and sees how well they need to evolve, inorder to accomplish a task. I think these examples show how effective a MLA is when needing to accomplish a simple and easy task.
 </p>
 
 <h2>
