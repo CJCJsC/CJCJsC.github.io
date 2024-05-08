@@ -40,8 +40,7 @@ III. Impact on Learning and Understanding:
 </h2>
 
 <p>
-In ways that using AI could improve or weaken things like the your comprehension, development of skills in the respective subject , and problem-solving abilities.
-Some ways that AI could reduce your problem-solving skills are by just using AI to cheat. Asking AI to completely solve a problem by itself is similar to the act of cheating. Cheating doesn't allow the user to learn by themselves and to improve their own skillset. Similarly to using AI to solve a problem, it doesn't allow the user to learn by themselves, since the Ai is doing all the work, and the user doesn't improve upon himself and not enhance his problem-skills. Some ways that AI could improve your skill development, are using AI for things like asking the AI for corrections for the errors, and asking them how to use a certain coding method. Using AI for this purpose, gives the user more examples to learn from and they could apply it to their work. For the error example, asking the AI to correct their code, can make the user learn from their mistakes and they won't make it again. Other ways that AI could enhance your learning is by asking them for different ways to accomplish your project, not exactly asking them to complete it but to give examples of more diverse ways of accomplishing the user's project. This way the user can learn more methods and potentionally learn more.
+In ways that using AI could improve or weaken things like the your comprehension, development of skills in the respective subject , and problem-solving abilities. Some ways that AI could reduce your problem-solving skills are by just using AI to cheat. Asking AI to completely solve a problem by itself is similar to the act of cheating. Cheating doesn't allow the user to learn by themselves and to improve their own skillset. Similarly to using AI to solve a problem, it doesn't allow the user to learn by themselves, since the Ai is doing all the work, and the user doesn't improve upon himself and not enhance his problem-skills. Some ways that AI could improve your skill development, are using AI for things like asking the AI for corrections for the errors, and asking them how to use a certain coding method. Using AI for this purpose, gives the user more examples to learn from and they could apply it to their work. For the error example, asking the AI to correct their code, can make the user learn from their mistakes and they won't make it again. Other ways that AI could enhance your learning is by asking them for different ways to accomplish your project, not exactly asking them to complete it but to give examples of more diverse ways of accomplishing the user's project. This way the user can learn more methods and potentionally learn more.
 </p>
 
 <h2>
@@ -49,7 +48,7 @@ IV. Practical Applications: ***
 </h2>
 
 <p>
-Some practical applications for using AI are, using them while working, ...
+To my knowledge, I know several examples of AI being used in a multitude of projects, for example projects like Games and Machine Learning. There are a lot of videos online showcasing a content creator creating an Machine Learning Algorithm, similar to AI, in which they would be tasked to complete a certain objective. For example, 
 </p>
 
 <h2>
