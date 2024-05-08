@@ -44,21 +44,21 @@ In ways that using AI could improve or weaken things like the your comprehension
 </p>
 
 <h2>
-IV. Practical Applications: ***
+IV. Practical Applications:
 </h2>
 
 <p>
-To my knowledge, I know several examples of AI being used in a multitude of projects, for example projects like Games and Machine Learning. There are a lot of videos online showcasing a content creator creating an MLA (Machine Learning Algorithm), similar to AI, in which they would be tasked to complete a certain objective. For example, a [youtuber](https://www.youtube.com/watch?v=DmQ4Dqxs0HI) re-creating a game in code, and creating an AI to beat the game, and seeing how well they would do while adjusting certain parameters and achivements that the AI has to follow and complete. Also, there is another [youtuber] (https://www.youtube.com/watch?v=pJPdW8WWAso) that creates a MLA that makes a 3d charatcer model and tasks them to walk. I think these two projects are realy interesting and allows people to see the progress of AI and sees how well they need to evolve, inorder to accomplish a task. I think these examples show how effective a MLA is when needing to accomplish a simple and easy task.
+  
+To my knowledge, I know several examples of AI being used in a multitude of projects, for example projects like Games and Machine Learning. There are a lot of videos online showcasing a content creator creating an MLA (Machine Learning Algorithm), similar to AI, in which they would be tasked to complete a certain objective. For example, a [youtuber](https://www.youtube.com/watch?v=DmQ4Dqxs0HI) re-creating a game in code, and creating an AI to beat the game, and seeing how well they would do while adjusting certain parameters and achivements that the AI has to follow and complete. Also, there is another [youtuber](https://www.youtube.com/watch?v=pJPdW8WWAso) that creates a MLA that makes a 3d charatcer model and tasks them to walk. I think these two projects are realy interesting and allows people to see the progress of AI and sees how well they need to evolve, inorder to accomplish a task. I think these examples show how effective a MLA is when needing to accomplish a simple and easy task. With enough time, a MLA can easily learn how to accomplish a task, given that the task has minimal requirments and that it is easy to implement. A real world example involving real work involves this [MLA scanner](https://www.newyorker.com/tech/annals-of-technology/the-pastry-ai-that-learned-to-fight-cancer) that was used for scanning bread to calculate the cost of the total purchase. This was soon re-purposed for identifying cancer cells, because of it's value of identifying, different shapes and sizes, and comparing them to each other.
 </p>
+
 
 <h2>
 V. Challenges and Opportunities: ***
 </h2>
 
 <p>
-Some challenges that arrive when using AI are, when using any work or code that is given by AI will eventually give you errors later on.
-
-However some opportunities that arrive when using AI are, saving time on work, ...
+Some challenges that arrive when using AI are, using any work or code that is given by AI will eventually give you errors later on. Working on an assignment that is strictly only being coded by an AI is very risky and not healthy for the worker, the consumer, and the project as a whole. Using code that is given and written by AI is a very big mistake in which you could have unforseen errors hidden within the code, some examples include, errors with can contradict or interfers with other files, if the code needs to be changed the user who copied the code will have trouble updating the code because he wasn't the one who wrote the code, so they will have a hard time understanding what parts of the code they will need to change. However some opportunities that arrive when using AI are, saving time on work, using MLA to accomplish a task, and asking the AI on fixes on errors in the code. I believe these three ways are good opportunities to allow AI to be used while working on a project. Asking an AI to format a template for your project helps time without formatting it yourself. Having the AI do this easily saves enough time for the user to think of aspects for the project, like what to use for methods and functions. Using MLA to accomplish a task is a good example from the last section, having an AI to do this job for the user easily saves more time in the long run, and can be reused in a different area of used correctly. Another way that AI is used good for is to fix errors since sometimes bug fixing code can be hard when you don't recognize the error line.
 </p>
 
 <h2>
@@ -89,4 +89,4 @@ In Conclusion,
 <h2>
 ChatGPT
 </h2>
-I asked ChatGPT for additional details to enhance my essay and to check for any grammar mistakes
+I asked ChatGPT for to correct any spelling errors as well as to correct any grammatical errors
