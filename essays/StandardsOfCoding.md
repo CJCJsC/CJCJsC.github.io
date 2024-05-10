@@ -4,7 +4,7 @@ type: essay
 title: "Using IDE's makes things IDEasy!"
 # All dates must be YYYY-MM-DD format!
 date: 2024-02-08
-published: true
+published: false
 labels:
   - Coding Standards
   - IDEs
