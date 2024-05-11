@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: img/business-bonders/Logo.PNG
 title: "Business Bonder"
 date: 2024-05-09
 published: true
