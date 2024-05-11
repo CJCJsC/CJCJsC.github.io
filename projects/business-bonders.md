@@ -11,8 +11,6 @@ labels:
   - Web Development
 ---
 
-<h1>Business Bonder</h1>
-
 <p align="center">
   <img width="750px" src="https://raw.githubusercontent.com/CJCJsC/CJCJsC.github.io/main/img/business-bonder/LandingPage.PNG">
 </p>
