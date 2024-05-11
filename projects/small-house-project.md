@@ -12,7 +12,6 @@ summary: "A group project that was made in highschool, and the experiences I had
 ---
 
 <p>
-  
 This project was a collaboration between myself and two other students enrolled in the Design Tech class. It was created for the '[Tiny House Design Challenge](https://docs.google.com/document/d/1mKz_WZUaSj4p2j4a9ONK0spFB6TJvteG/edit?usp=sharing&ouid=101069725802984305522&rtpof=true&sd=true)', a contest where participants were tasked with designing a house with a floor plan size of 500 square feet and ensuring that the materials used for the house cost under $100,000.
 
 Our responsibilities included creating the blueprint and floor plan, estimating the theoretical cost of all materials, furnishing the house, designing the wiring and plumbing systems, and constructing a small-scale model of the house.
