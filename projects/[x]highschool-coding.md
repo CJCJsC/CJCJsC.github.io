@@ -4,7 +4,7 @@ type: project
 image: img/highschool-coding/HSWebsite.PNG
 title: "Highschool Beginnings"
 date: 2024-01-26
-published: true
+published: false
 labels:
   - Highschool
   - Html
