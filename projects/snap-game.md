@@ -26,6 +26,7 @@ Game 1: you use the the left and right arrow keys to avoid 'Covid' to gain point
 Game 2: you collect toilet paper rolls to gain points, you must avoid the other person ,that walks through walls, if not it's a game over.
 
 <h2>
+  
 [Isolation Experience](https://snap.berkeley.edu/snap/snap.html#present:Username=cj%20caraang&ProjectName=Final%20Project%2C%20Isolation%20Experience)
 </h2>
 
