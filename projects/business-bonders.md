@@ -9,6 +9,7 @@ labels:
   - Project
   - Java
   - Web Development
+summary: A Software Engineering Final Project
 ---
 
 <p align="center">
