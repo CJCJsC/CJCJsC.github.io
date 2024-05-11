@@ -14,7 +14,7 @@ labels:
 <h1>Business Bonder</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CJCJsC/CJCJsC.github.io/main/img/business-bonder/LandingPage.PNG">
+  <img width="750px" src="https://raw.githubusercontent.com/CJCJsC/CJCJsC.github.io/main/img/business-bonder/LandingPage.PNG">
 </p>
 
 <p>
@@ -28,7 +28,7 @@ The primary objective of this website is to provide students with opportunities 
 
 <h2>Student Profile</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CJCJsC/CJCJsC.github.io/main/img/business-bonder/StudentPage.PNG">
+  <img width="750px" src="https://raw.githubusercontent.com/CJCJsC/CJCJsC.github.io/main/img/business-bonder/StudentPage.PNG">
 </p>
 
 <p>
@@ -37,7 +37,7 @@ The Student Profile serves as a platform for students to input their personal in
 
 <h2>Company Profile</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CJCJsC/CJCJsC.github.io/main/img/business-bonder/CompanyPage.PNG">
+  <img width="750px" src="https://raw.githubusercontent.com/CJCJsC/CJCJsC.github.io/main/img/business-bonder/CompanyPage.PNG">
 </p>
 
 <p>
@@ -46,7 +46,7 @@ The Company Profile is designed for companies to showcase their information, inc
 
 <h2>Home Page</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CJCJsC/CJCJsC.github.io/main/img/business-bonder/HomePage.PNG">
+  <img width="750px" src="https://raw.githubusercontent.com/CJCJsC/CJCJsC.github.io/main/img/business-bonder/HomePage.PNG">
 </p>
 
 <p>
