@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/business-bonder/Logo.png
+image: https://raw.githubusercontent.com/CJCJsC/CJCJsC.github.io/main/img/business-bonder/Logo.PNG
 title: "Business Bonder"
 date: 2024-05-09
 published: true
