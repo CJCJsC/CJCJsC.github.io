@@ -4,7 +4,7 @@ type: project
 image: img/business-bonder/Logo.png
 title: "Business Bonder"
 date: 2024-05-09
-published: false
+published: true
 labels:
   - Project
   - Java
