@@ -24,7 +24,7 @@ The purpose of this website is to allow students to have the opportunity to be a
 
 <h2>----</h2>
 <p align="center">
-  <img width="460" height="300" src="https://picsum.photos/460/300">
+  <img width="460" height="300" src="img/business-bonder/HomePage.PNG">
 </p>
 
 
