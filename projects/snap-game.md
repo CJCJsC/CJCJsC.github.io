@@ -31,8 +31,8 @@ Game 2: you collect toilet paper rolls to gain points, you must avoid the other 
 </h2>
 
 <p>
-  <img width="450px" class="image-fluid" src="https://media.discordapp.net/attachments/881242015973638144/1200669765149134899/Snap-Code.PNG?ex=65c705db&is=65b490db&hm=57815718c2058586b9e40622696984c6ecaf8f342ddc61fc2ebbfd0024d577c5&=&format=webp&quality=lossless&width=810&height=730">
-   <img width="450px" class="image-fluid" src="https://media.discordapp.net/attachments/881242015973638144/1200670670053445653/Snapp.PNG?ex=65c706b3&is=65b491b3&hm=80b5486181e73b0893e5fba6d59f262d39322f97018ca97d03b84328b79d87f7&=&format=webp&quality=lossless">
+  <img width="450px" class="image-fluid" src="https://raw.githubusercontent.com/CJCJsC/CJCJsC.github.io/main/img/snap-game/Snap-Code.PNG">
+   <img width="450px" class="image-fluid" src="">
 </p>
 
 I made this game as a final project in ICS 103, I took it during one of my summers, after my junior year in highschool. This class was fun because the type of assignments was fun coding programs that allowed us to learn and to use our creativity to complete the assignment.
