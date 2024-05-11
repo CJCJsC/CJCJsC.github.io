@@ -42,3 +42,8 @@ Developing this final project was a blast for me as I've always wanted to create
 
 You can observe the separate code for each game by examining the sprites at the bottom. This experience taught me to use my time wisely and recognize my limitations when it comes to coding for a game.
 
+<h2>
+ChatGPT
+</h2>
+I asked ChatGPT to check for spelling errors, and to correct any grammatical errors
+
