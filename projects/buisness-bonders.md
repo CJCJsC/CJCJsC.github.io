@@ -10,10 +10,16 @@ labels:
   - Java
 ---
 
-<h1>Buisness Bonder</h1>
+<h1>Business Bonder</h1>
+<p>
+  
+The name [_Buisness Bonder_](https://businessbonders.xyz/), is the name of the company that created a website called the Company Connector. The Company Connector is a website that allows for students and companys to create a profile for themselves, put it into the database, and allows for the students and the companys to connect or bond with each other.
 
-https://businessbonders.xyz/
+The purpose of this website is to allow students that
 
+</p>
+
+<h2>ChatGPT</h2>
 <p>
 
 </p>
