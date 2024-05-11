@@ -17,7 +17,6 @@ summary: A Software Engineering Final Project
 </p>
 
 <p>
-  
 The company known as [Business Bonder](https://businessbonders.xyz/) is the creator of a website called the Company Connector. This platform enables students and companies to establish profiles within its database, facilitating connections and fostering bonds between them.
 <p/>
 
